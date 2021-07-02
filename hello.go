@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Print("holla soapo lenguado...\n")
+	fmt.Print("holla sopo lenguado...y la tutatatata\n")
 	//	fmt.Println(quote.Go())
 }
